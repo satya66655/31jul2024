@@ -2,10 +2,7 @@ Roti
 Chapati
 Rice
 Sambar
-<<<<<<< HEAD
 Dal makhani
 Fried Rice
-=======
 Chole Bhatore
 Dal Khichdi
->>>>>>> local
