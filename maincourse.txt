@@ -2,3 +2,5 @@ Roti
 Chapati
 Rice
 Sambar
+Chole Bhatore
+Dal Khichdi
